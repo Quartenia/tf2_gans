@@ -1,6 +1,6 @@
 {
   "tf2_gans": {
     "Overview": "/",
-    "module name here": "/core"
+    "tf2_gans": "/core"
   }
 }
