@@ -1,6 +1,9 @@
 {
   "tf2_gans": {
     "Overview": "/",
-    "tf2_gans": "/core"
+    "DCGAN": "/dcgan",
+    "Blocks": "/blocks",
+    "tf2_gans": "/core",
+    "Losses": "/losses"
   }
 }

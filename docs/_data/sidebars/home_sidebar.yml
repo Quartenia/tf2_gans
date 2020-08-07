@@ -10,8 +10,17 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
+      title: DCGAN
+      url: /dcgan
+    - output: web,pdf
+      title: Blocks
+      url: /blocks
+    - output: web,pdf
       title: tf2_gans
       url: /core
+    - output: web,pdf
+      title: Losses
+      url: /losses
     output: web
     title: tf2_gans
   output: web

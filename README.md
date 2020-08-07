@@ -1,4 +1,4 @@
-# Project name here
+# tf2_gans
 > Summary description here.
 
 
@@ -11,14 +11,3 @@ This file will become your README and also the index of your documentation.
 ## How to use
 
 Fill me in please! Don't forget code examples:
-
-```python
-1+1
-```
-
-
-
-
-    2
-
-
